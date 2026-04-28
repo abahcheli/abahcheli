@@ -1,16 +1,25 @@
-## Hi there 👋
+# Alec Bahcheli, PhD(c)
+Computational Biologist | Multi-omics | Bioinformatics | Applied Statistics
 
-<!--
-**abahcheli/abahcheli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop computational frameworks for large-scale biological data analysis, with expertise in:
 
-Here are some ideas to get you started:
+- Statistical modeling
+- Machine learning
+- Multi-omic integration
+- Cancer genomics
+- Long-read and short-read sequencing
+- Biomarker discovery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Focus
+- Python / R
+- Nextflow / Snakemake
+- HPC / Cloud
+- Docker / Singularity
+- Machine learning for biological systems
+
+## Note on Repository Availability
+A substantial portion of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints. Public repositories here showcase selected open-source tools, generalized analytical frameworks, and representative examples of my computational work.
+
+## Publications
+[Google Scholar](https://scholar.google.ca/citations?user=MIHl8ToAAAAJ&hl=en)
+[LinkedIn](https://www.linkedin.com/in/alec-bahcheli-b26bb9164/)
