@@ -18,7 +18,7 @@ I develop computational frameworks for large-scale biological data analysis, wit
 - Machine learning for biological systems
 
 ## Note on Repository Availability
-A substantial portion of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints. Public repositories here showcase selected open-source tools, generalized analytical frameworks, and representative examples of my computational work.
+A substantial portion of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints. 
 
 ## Publications
 [Google Scholar](https://scholar.google.ca/citations?user=MIHl8ToAAAAJ&hl=en)
