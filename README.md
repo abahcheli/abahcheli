@@ -1,4 +1,4 @@
-# Alec Bahcheli, PhD(c)
+# Alec Bahcheli, PhD
 Computational Biologist | Multi-omics | Bioinformatics | Applied Statistics
 
 I develop computational frameworks for large-scale biological data analysis, with expertise in:
