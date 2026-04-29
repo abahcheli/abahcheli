@@ -18,8 +18,9 @@ I develop computational frameworks for large-scale biological data analysis, wit
 - Machine learning for biological systems
 
 ## Note on Repository Availability
-A substantial portion of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints. 
+A substantial portion of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints (e.g. [Reimand lab](https://github.com/reimandlab)).
 
 ## Publications
 [Google Scholar](https://scholar.google.ca/citations?user=MIHl8ToAAAAJ&hl=en)
+
 [LinkedIn](https://www.linkedin.com/in/alec-bahcheli-b26bb9164/)
