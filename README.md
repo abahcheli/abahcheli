@@ -18,9 +18,7 @@ I develop computational frameworks for large-scale biological data analysis, wit
 - Machine learning for biological systems
 
 ## Note on Repository Availability
-A most of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints (e.g. [Reimand lab](https://github.com/reimandlab)). A selection of for-fun projects as well as public code from these publications have been made available.
-- [Directional integration and pathway enrichment analysis for multi-omics data](https://pubmed.ncbi.nlm.nih.gov/38971800/) and the publication code [public repository](https://github.com/reimandlab/ActivePathways) / [publication code](https://github.com/reimandlab/DPM_publication_code)
-- [Pan-cancer ion transport signature reveals functional regulators of glioblastoma aggression](https://pmc.ncbi.nlm.nih.gov/articles/PMC10897389/). 
+A most of my recent work is maintained in private academic, collaborative, or commercial repositories pending publication, organizational release, or confidentiality constraints (e.g. [Reimand lab](https://github.com/reimandlab)).
 
 ## Publications
 [Google Scholar](https://scholar.google.ca/citations?user=MIHl8ToAAAAJ&hl=en)
